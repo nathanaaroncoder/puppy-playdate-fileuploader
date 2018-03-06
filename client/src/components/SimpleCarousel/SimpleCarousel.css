@@ -1,0 +1,44 @@
+/*.container{
+  margin: .5rem
+  max-width: 400px
+}
+
+.title{
+  padding-bottom: .25em
+  padding-bottom: 0
+}*/
+.hollow:focus{
+  border: 0px !important;
+}
+
+.swipeContainer{
+  padding: 1em
+}
+  
+.swipe{
+  display: inline-block;
+  border: 2px solid gray;
+  padding: 5px;
+
+}
+
+/* .hollow{
+ height: 20px !important;
+} */
+.thumb{
+  height: 900px;
+  background-color: white;
+  border: 0;
+  cursor: pointer;
+}
+  
+/*.float-right{
+  float: right!important;
+}
+  
+.float-left{
+  float: left!important;
+}
+*/
+
+

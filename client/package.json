@@ -1,0 +1,31 @@
+{
+  "name": "mern",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3001/",
+  "dependencies": {
+    "express-fileuploader": "^0.0.7",
+    "geodist": "^0.2.1",
+    "moment": "^2.20.1",
+    "react": "^16.0.0",
+    "react-big-calendar": "^0.18.0",
+    "react-bootstrap": "^0.32.1",
+    "react-checkbox-group": "^4.0.1",
+    "react-dom": "^16.0.0",
+    "react-places-autocomplete": "^6.1.2",
+    "react-radio-buttons": "^1.2.1",
+    "react-rangeslider": "^2.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "react-swipeable": "^4.2.0",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0",
+    "socket.io-client": "^2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
